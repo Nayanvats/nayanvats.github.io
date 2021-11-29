@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-9-17 15:30:00+0530
+date: 2020-11-17 15:30:00+0530
 inline: true
 ---
 
-Our paper "" got accepted in ""
+Guided and evaluated projects for four groups in the ECE448 Course involving the extraction of openSMILE features and Group Delay features on openly available pathological speech.
