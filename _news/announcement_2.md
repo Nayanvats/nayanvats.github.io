@@ -1,7 +1,0 @@
----
-layout: post
-date: 2021-04-30 15:30:00+0530
-inline: true
----
-
-Our paper titled "ACOUSTIC FEATURES, BERT Model AND THEIR COMPLEMENTARY NATURE FOR ALZHEIMER'S DEMENTIA DETECTION" got accepted in IC3-2021.
