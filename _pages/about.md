@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Nayan Anand Vats, MS student in Speech Processing Lab, IIIT Hyderabad, advised by Dr. Anil Kumar Vuppala. Being an Electronics and Communication Engineer, I have a sweet spot for intensive mathematical concepts and Ideas. The never-ending depth and avenues in the field of Signal Processing, Machine Learning, Deep Learning, NLP, and other related areas are my prime interests. My strong foundation, flexibility to learn new things, and innovative mindset are my core strengths. I am keen on learning about cutting-edge technologies and their use case in the modern world. I firmly believe in teamwork, listening to different viewpoints, knowledge sharing, and healthy competition. 
+Hi! I am Nayan Anand Vats, MS student in [Speech Processing Lab, IIIT Hyderabad](https://ltrc.iiit.ac.in/), advised by [Dr. Anil Kumar Vuppala](https://sites.google.com/view/welcome-to-anils-world/Home). Being an Electronics and Communication Engineer, I have a sweet spot for intensive mathematical concepts and Ideas. The never-ending depth and avenues in the field of Signal Processing, Machine Learning, Deep Learning, NLP, and other related areas are my prime interests. My strong foundation, flexibility to learn new things, and innovative mindset are my core strengths. I am keen on learning about cutting-edge technologies and their use case in the modern world. I firmly believe in teamwork, listening to different viewpoints, knowledge sharing, and healthy competition. 
 
 
 **Research Interests**: Speech Signal Processing, Machine Learning, Deep Learning, and Natural Language Processing 
